@@ -1,0 +1,9 @@
+SAS OutputProportion of admissions that recorded a diagnosis of diabetes
+      for admissions between January 1st, 2003 and December 31st, 2004
+
+The FREQ Procedure
+      DM    Frequency    Percent   Cumulative Frequency    Cumulative Percent
+      0       2147         96.28          2147                    96.28
+      1       83            3.72          2230                   100.00
+
+
